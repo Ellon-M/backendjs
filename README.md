@@ -1,4 +1,4 @@
 # backendDev---express
 using the express js framework for node js 
-+ creating routes and rendering requests &amp; responses from templates
-+ creating RESTful and GQL APIs
++ create routes and render requests &amp; responses from templates
++ create RESTful and GQL APIs
